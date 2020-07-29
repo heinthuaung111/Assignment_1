@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/iv1"
         android:text="Oeschinen Lake Campground"
-        android:textSize="20dp"
+        android:textSize="25dp"
         android:layout_marginLeft="20dp"
         />
 
